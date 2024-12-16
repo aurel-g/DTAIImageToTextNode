@@ -1,4 +1,4 @@
-from custom_nodes.DTAIImageToTextNode.imagetotext import image_url_to_text, image_to_text
+from .imagetotext import image_url_to_text, image_to_text
 
 
 class DTAIImageUrlToTextNode:
